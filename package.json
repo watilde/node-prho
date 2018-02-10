@@ -10,8 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/watilde/pollard-rho.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "gcd"
+  ],
+  "author": "Daijiro Wachi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/watilde/pollard-rho/issues"
