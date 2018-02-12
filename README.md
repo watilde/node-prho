@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm
 
 ## Install
 ```console
-$ npm install kadane
+$ npm install prho
 ```
 
 ## Usage
