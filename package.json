@@ -1,6 +1,6 @@
 {
   "name": "prho",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pollard's rho algorithm in Node.js",
   "main": "index.js",
   "scripts": {
