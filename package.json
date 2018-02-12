@@ -1,14 +1,14 @@
 {
-  "name": "pollard-rho",
+  "name": "prho",
   "version": "1.0.0",
   "description": "Pollard's rho algorithm in Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/watilde/pollard-rho.git"
+    "url": "git+https://github.com/watilde/prho.git"
   },
   "keywords": [
     "gcd"
@@ -16,7 +16,7 @@
   "author": "Daijiro Wachi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/watilde/pollard-rho/issues"
+    "url": "https://github.com/watilde/prho/issues"
   },
-  "homepage": "https://github.com/watilde/pollard-rho#readme"
+  "homepage": "https://github.com/watilde/prho#readme"
 }
